@@ -1,6 +1,6 @@
 # Hi, I’m Vusumzi 👋
 
-I’m a Software Development Engineer with experience building distributed systems, automation tools, and full-stack applications.
+I’m a Software Engineer with experience building critical-mission distributed systems, automation tools, and full-stack applications.
 
 Previously at **Amazon Development Centre (Cape Town)**, I worked on internal AWS tooling focused on:
 - infrastructure visibility
